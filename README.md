@@ -1,4 +1,4 @@
-flask && dockerfile from:
+flask && dockerfile:
 
 https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
 
