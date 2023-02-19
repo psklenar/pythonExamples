@@ -13,7 +13,9 @@ podman run --name cashman -d -p 5000:5000 cashman
 ```
 
 # run flask app for developing
+```
 ./bootstrap.sh
+```
 
 # use app by curl from cmd line
 ```
