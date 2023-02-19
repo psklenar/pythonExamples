@@ -1,5 +1,4 @@
 # flask
-
 - https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
 
 # dockerfile
@@ -12,6 +11,9 @@
 podman build -t cashman .
 podman run --name cashman -d -p 5000:5000 cashman
 ```
+
+# run flask app for developing
+./bootstrap.sh
 
 # use app by curl from cmd line
 ```
