@@ -1,1 +1,2 @@
-# pythonExamples
+learning flask && dockerfile from:
+https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
